@@ -1,6 +1,6 @@
-body {
+.outside-border {
   background-color: #3399ff;
-  border: solid 5px black;
+  border: solid 5px gray;
   margin: 100px 0 0 100px;
   height: 500px;
   width: 500px; }
@@ -9,18 +9,19 @@ body {
   width: 73px;
   height: 3px;
   background-color: white;
-  margin: 0 0 0 100px; }
+  margin: 0 auto; }
 
 #clock {
   font-family: 'Black Ops One', cursive;
   font-size: 50px;
   width: 500px;
   color: white;
-  margin: 100px 0 0 100px; }
+  margin-top: 180px;
+  text-align: center; }
 
-body {
+.outside-border {
   background-color: #3399ff;
-  border: solid 5px black;
+  border: solid 5px gray;
   margin: 100px 0 0 100px;
   height: 500px;
   width: 500px; }
@@ -29,11 +30,12 @@ body {
   width: 73px;
   height: 3px;
   background-color: white;
-  margin: 0 0 0 100px; }
+  margin: 0 auto; }
 
 #clock {
   font-family: 'Black Ops One', cursive;
   font-size: 50px;
   width: 500px;
   color: white;
-  margin: 100px 0 0 100px; }
+  margin-top: 180px;
+  text-align: center; }
