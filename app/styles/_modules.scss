@@ -9,18 +9,19 @@ width: 500px;
 
 
 #timerBar {
-
-  width: 73px;
-  height: 3px;
+  height: 4px;
   background-color: white;
   margin: 0 auto;
+  box-shadow: 4px 4px 4px #000000;
 }
 #clock {
-  font-family: 'Black Ops One', cursive;
+  font-family: 'Changa One', cursive;
   font-size: 50px;
   width: 500px;
   color: white;
   margin-top: 180px;
   text-align: center;
+  text-shadow: 4px 4px 4px #000000;
+
 
 }
