@@ -1,13 +1,22 @@
+
+.outside-border {
+
+
+}
+
+
 #timerBar {
+
   width: 73px;
-  height: 2px;
+  height: 3px;
   background-color: white;
-  margin: 0 0 0 50px;
+  margin: 0 0 0 100px;
 }
 #clock {
+  font-family: 'Black Ops One', cursive;
   font-size: 50px;
   width: 500px;
   color: white;
-  margin:50px 0 0 50px;
+  margin:100px 0 0 100px;
 
 }
